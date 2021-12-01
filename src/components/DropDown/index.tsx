@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Container } from './style'
+import { Container } from './styles'
 
 interface DropDownProps {
   options: {
